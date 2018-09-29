@@ -4,7 +4,7 @@ Ingredients
     1 tsp smoked paprika
     1 clove garlic
     1 tsp salt
-    .25 tsp pepper
+    10 turns pepper
 
 Instructions
     Preheat oven to 450 F
@@ -17,4 +17,4 @@ Instructions
 
     Lightly brush baking sheet with olive oil
     Spread potatoes out in an even layer, flat surfaces touching sheet
-    Roast in oven until cooked through (30 minutes)
+    Roast in oven until cooked through (25 minutes)
