@@ -1,4 +1,4 @@
-Ingredients
+{Ingredients
     4 lbs red potatoes
     2 large onions
     2 cloves garlic
@@ -20,16 +20,17 @@ Instructions
     After 20 seconds, drain and rinse with cold water
     Remove the skin and chop
 
-    In a large pot heat the oil on medium heat (6 heat)
+    In a large pot heat the oil on medium high heat (7 heat)
     Add onions, saute until golden brown (10 minutes)
     Add garlic, saute (1 minute)
     Stir in paprika, then add tomatoes and pepper and stir
-    Cook, stirring frequently (5 minutes)
+    Cook, stirring frequently (5 minutes) (6 heat)
     Add potatoes and stir (2 minutes)
-        Boil water while stirring
-    Add boiling water until potatoes covered
+    Add 8 cups water
     Add 2 tsp salt, 20 turns pepper
+    Bring to boil covered (10 heat)
     Cook covered, stirring occasionally (10 minutes) (3 heat)
     Add couscous
+    Bring to boil covered (10 heat)
     Cook covered until soft, stirring occasionally (10 minutes) (3 heat)
     Turn off heat and let sit (10 minutes)
