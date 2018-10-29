@@ -13,12 +13,16 @@ Instructions
 
     Use food processor at speed 2
 
-    In food processor, mix juice from lemon and garlic (5 seconds)
-    Add tahini, then process (1 minute)
-    Scrape sides and bottom of bowl, then process (30 seconds)
-    Add olive oil, cumin, and salt, then process (30 seconds)
-    Scrape sides and bottom of bowl, then process (30 seconds)
-    Add 1 cup chickpeas, then process (30 seconds)
-    Scrape sides and bottom of bowl, add remaining chickpeas
+    Add to food processor
+        juice from lemon
+        garlic
+        tahini
+        olive oil
+        cumin
+        salt
+    Process for 3 minutes
+        Scrape sides and bottom of bowl every 30 seconds
+    Add chickpeas
     Process until thick and smooth (1-2 minutes)
+        Scrape sides and bottom of bowl every 30 seconds
     Add up to 1/4 cup hot water while processing until smooth
