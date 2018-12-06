@@ -12,8 +12,6 @@ Ingredients
     3/4 cup raisins
 
 Instructions
-    Preheat oven to 350 degrees
-
     Add to food processor
         flour
         baking soda
@@ -33,6 +31,7 @@ Instructions
     Add oats and raisins and beat until distributed
     Form into one large ball, then refrigerate for 2 hours
 
+    Preheat oven to 350 degrees
     Portion cookie dough onto parchment
     Bake for 12 minutes (until golden on the edges)
     Cool for 15 minutes
