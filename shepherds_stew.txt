@@ -1,6 +1,7 @@
 Ingredients
     2 onions
     2 cloves garlic
+    2 tbsp olive oil
     4 tsp bouillon
     2 tbsp paprika
     2 lbs potatoes
@@ -15,7 +16,7 @@ Instructions
     Mince garlic
     Peel potatoes and chop into .5 inch cubes
 
-    Heat 2 tbsp olive oil in large pot over medium high heat (7 heat)
+    Heat olive oil in large pot over medium high heat (7 heat)
     Saute onions until lightly browned (10 minutes) (7 heat)
     Stir in garlic and paprika
     
